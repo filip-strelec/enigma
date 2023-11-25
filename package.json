@@ -1,7 +1,7 @@
 {
-  "name": "socket-chat-example",
+  "name": "socket-chat-encrypted",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "Encrypted chat with socket.io",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
